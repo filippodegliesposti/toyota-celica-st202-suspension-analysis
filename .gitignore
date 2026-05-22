@@ -1,0 +1,17 @@
+# MATLAB file temporanei e di backup
+*.asv
+*.mat
+*.slxc
+*.mex*
+*.p
+*.log
+
+# Cartelle di sistema di MATLAB
+.matlab/
+Work/
+slprj/
+DerivedData/
+
+# File di sistema operativi
+.DS_Store
+Thumbs.db
