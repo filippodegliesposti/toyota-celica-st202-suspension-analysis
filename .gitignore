@@ -1,17 +1,18 @@
-# MATLAB file temporanei e di backup
+# ==========================================
+# MATLAB & Simulink Generated Files
+# ==========================================
+
+# Autosave files created by the MATLAB Editor
 *.asv
-*.mat
-*.slxc
-*.mex*
-*.p
+
+# MATLAB code generation templates and logs
 *.log
+*.mat
 
-# Cartelle di sistema di MATLAB
-.matlab/
-Work/
+# Figures saved from MATLAB plots (if you don't want them tracked)
+# *.fig
+
+# System and temporary folders created by MATLAB
 slprj/
-DerivedData/
-
-# File di sistema operativi
-.DS_Store
-Thumbs.db
+Cache/
+.matlab/
